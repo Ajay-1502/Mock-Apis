@@ -33,7 +33,7 @@
           "card": {
             "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
             "info": {
-              "id": "1",
+              "id": "18904265",
               "name": "Rasoi Veg Thali",
               "city": "Hubli",
               "slugs": {

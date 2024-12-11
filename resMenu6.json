@@ -33,7 +33,7 @@
           "card": {
             "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
             "info": {
-              "id": "6",
+              "id": "21097083",
               "name": "Biryani And Kabab's",
               "city": "Hubli",
               "slugs": {

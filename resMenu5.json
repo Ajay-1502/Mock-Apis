@@ -33,7 +33,7 @@
           "card": {
             "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
             "info": {
-              "id": "5",
+              "id": "19750570",
               "name": "Hotel Farzaan",
               "city": "Hubli",
               "slugs": {

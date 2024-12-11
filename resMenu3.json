@@ -33,7 +33,7 @@
           "card": {
             "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
             "info": {
-              "id": "3",
+              "id": "19155155",
               "name": "Chaat Puchka",
               "city": "Hubli",
               "slugs": {
