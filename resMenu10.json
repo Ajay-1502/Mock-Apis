@@ -7,7 +7,7 @@
         "card": {
           "card": {
             "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
-            "text": "Hotel Shree Panjurli",
+            "text": "Rasoi Veg Thali",
             "headerStyling": {
               "textColor": "text_Highest_Emphasis",
               "textVariant": "header_H3_Black"
@@ -33,8 +33,8 @@
           "card": {
             "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
             "info": {
-              "id": "96382",
-              "name": "Hotel Shree Panjurli",
+              "id": "10",
+              "name": "Andhra Ruchulu",
               "city": "Hubli",
               "slugs": {
                 "restaurant": "hotel-shree-panjurli-deshpande-nagar-test-hubli",
